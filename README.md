@@ -1,4 +1,4 @@
-![ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?&theme=THEME_NAME
+![ibrahim's GitHub stats]!(https://github-readme-stats.vercel.app/api?username=ibrahimnaseer&show_icons=true&theme=radical)
 
 - 👋 Hi, I’m @ibrahim777764
 - 👀 I’m interested in ...
