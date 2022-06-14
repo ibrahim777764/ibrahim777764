@@ -54,9 +54,9 @@ You can click the Preview link to take a look at your changes.
   
   #### Git Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RitobrotoMukherjee&show_icons=true&locale=en&layout=compact" alt="Ritobroto Mukherjee" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimnasser&show_icons=true&locale=en&layout=compact" alt="ibrahim naseer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RitobrotoMukherjee&show_icons=true&locale=en" alt="Ritobroto Mukherjee" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimnasser&show_icons=true&locale=en" alt="ibrahim naseer" /></p>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
