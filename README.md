@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahim&theme=radical&border_radius=5.2)](https://git.io/streak-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimnasser&show_icons=true&locale=en&layout=compact" alt="ibrahim naseer" /></p>
+![ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim&theme=dark&show_icons=true)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimnasser&show_icons=true&locale=en" alt="ibrahim naseer" /></p>
 
