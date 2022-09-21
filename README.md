@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">               
 </p>
   
-  #### Git Stats
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Ibrahim&theme=radical&border_radius=5.2)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimnasser&show_icons=true&locale=en&layout=compact" alt="ibrahim naseer" /></p>
 
